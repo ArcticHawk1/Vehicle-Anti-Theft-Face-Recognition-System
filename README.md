@@ -29,7 +29,7 @@ add the file path to the 'service account' if it doesn't work.
 
 # Website of the Project
 
-https://arctichawk1.github.io/Vehicle-Anti-Theft-Face-Recognition-System/
+https://batuhan-basoglu.github.io/Vehicle-Anti-Theft-Face-Recognition-System/
 
 # Notes
 
