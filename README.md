@@ -4,7 +4,7 @@ README file for the Vehicle Anti Theft Face Recognition System.
 
 # Student Info
 
-Software: Batuhan Basoglu, Feier Zhang, Alexandre Pereira, Sam Hermas Parada
+Software: Batuhan Berk Başoğlu, Feier Zhang, Alexandre Pereira, Sam Hermas Parada
 
 Hardware: Qian Ma, Leyao Li
 
